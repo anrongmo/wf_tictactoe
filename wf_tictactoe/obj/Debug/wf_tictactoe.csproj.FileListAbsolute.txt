@@ -1,0 +1,9 @@
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.TicTacToe.resources
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csproj.GenerateResource.cache
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\bin\Debug\tictactoe.exe
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\tictactoe.exe
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\MO\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
